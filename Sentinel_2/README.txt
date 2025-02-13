@@ -1,0 +1,1 @@
+Use the Sentinel2_notebook.ipynb file to download and inspect data necessary to use the MatchingDates.ipynb notebook.
